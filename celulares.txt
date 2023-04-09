@@ -1,0 +1,19 @@
+01 499.99 Samsung
+25 5 Smartphone Samsung Galaxy A32 5G
+Samsung Galaxy A32
+
+02 399.99 Apple
+15 23 iPhone SE (2020) 64GB
+iPhone SE (2020)
+
+03 799.99 Google
+10 2 Google Pixel 6 Pro 128GB
+Google Pixel 6 Pro
+
+04 299.99 Motorola
+20 4 Motorola Moto G Power (2022) 64GB
+Motorola Moto G Power (2022)
+
+05 599.99 OnePlus
+30 6 OnePlus 9 5G 128GB
+OnePlus 9
